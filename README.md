@@ -22,4 +22,4 @@ El formulario principal contiene seis botones:
 - El sexto y último botón se encarga de cerrar la aplicación.
 
 ## Créditos:
-Ideado y diseñado originalmente por Sebastián M. Errecalde, Agosto - Diciembre 2023.
+Ideado y diseñado originalmente por [Sebastián M. Errecalde](https://github.com/cer0uno1), Agosto - Diciembre 2023.
