@@ -1,5 +1,9 @@
 # Prediccion-Resultados-Alumnos-Version-2
 
+>[!WARNING]
+>La aplicación no fue testeada a fondo, y no contiene casos de validación. Puede contener errores críticos. No se recomienda usarla fuera de un ámbito informal.
+
+
 ## Acerca de:
 Aplicación creada como una evolución de [Predicción de resultados de alumnos.](https://github.com/cer0uno1/Prediccion-de-Resultados-de-Alumnos)
 
